@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Suraj-Prakash-Singh
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning dart and flutter
-- 💞️ I’m looking to collaborate on building UI for apps
+- 👀 I’m interested in WEB and ANDROID Development.
+- 🌱 I’m currently learning Javascript and CSS.
+- 💞️ I’m looking to collaborate on building WEB APPS.
 - 📫 How to reach me : email -surajprakash96399@gmail.com
 
 <!---
